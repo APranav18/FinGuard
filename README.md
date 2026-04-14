@@ -1,4 +1,8 @@
-# Customer Churn Prediction in Banking Using Machine Learning
+# FinGuard
+
+To develop a machine learning model that predicts customer churn in the banking sector and enables early intervention to improve customer retention.
+
+## Customer Churn Prediction in Banking Using Machine Learning
 
 End-to-end machine learning project for predicting customer churn in a banking dataset (Kaggle CSV format), including EDA, preprocessing, model comparison, evaluation, model persistence, and a Streamlit UI.
 
