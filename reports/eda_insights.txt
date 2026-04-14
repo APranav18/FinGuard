@@ -1,0 +1,21 @@
+Key EDA Insights
+================
+Overall churn rate: 20.37%
+
+Churn rate by geography:
+Geography   Exited
+  Germany 0.324432
+    Spain 0.166734
+   France 0.161548
+
+Churn rate by gender:
+Gender   Exited
+Female 0.250715
+  Male 0.164559
+
+Top absolute correlations with churn:
+Age               0.285323
+IsActiveMember    0.156128
+Balance           0.118533
+NumOfProducts     0.047820
+CreditScore       0.027094

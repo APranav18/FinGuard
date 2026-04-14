@@ -1,0 +1,35 @@
+{
+  "best_model_name": "Random Forest",
+  "feature_columns": [
+    "CreditScore",
+    "Geography",
+    "Gender",
+    "Age",
+    "Tenure",
+    "Balance",
+    "NumOfProducts",
+    "HasCrCard",
+    "IsActiveMember",
+    "EstimatedSalary"
+  ],
+  "categorical_options": {
+    "Geography": [
+      "France",
+      "Germany",
+      "Spain"
+    ],
+    "Gender": [
+      "Female",
+      "Male"
+    ]
+  },
+  "model_path": "E:\\hackthonbank\\models\\best_model.pkl",
+  "prediction_threshold": 0.4662685000566517,
+  "threshold_metrics": {
+    "Accuracy": 0.845,
+    "Precision": 0.6174334140435835,
+    "Recall": 0.6265356265356266,
+    "F1-Score": 0.6219512195121951
+  },
+  "is_tuned": true
+}

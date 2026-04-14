@@ -1,0 +1,5 @@
+Best threshold (max F1): 0.4663
+Precision @ threshold: 0.6174
+Recall @ threshold: 0.6265
+F1-Score @ threshold: 0.6220
+Accuracy @ threshold: 0.8450
