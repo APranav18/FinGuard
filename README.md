@@ -88,7 +88,6 @@ This command performs:
   - Precision
   - Recall
   - F1-score
-  - ROC-AUC
   - Confusion Matrix plot (best model)
 - Additional plots:
   - Churn distribution
